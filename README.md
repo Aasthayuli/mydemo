@@ -1,4 +1,4 @@
 # mydemo
 This is my first git repository.
 <br>
-Author:- Aasthayuli
+Author:- Aasthayuli(Global Institute of technology and management)
